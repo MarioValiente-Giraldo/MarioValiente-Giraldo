@@ -2,7 +2,6 @@
 
 ```javascript
 const aboutMe = {
-  pronouns: "he | him", // O el pronombre que uses
   currentStatus: "DAW Student @ IES Hermenegildo Lanz",
   role: "Full-Stack Developer Training 💻",
   code: ["Java", "JavaScript", "PHP", "Symfony"],
