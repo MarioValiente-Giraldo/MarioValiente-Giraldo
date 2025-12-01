@@ -17,3 +17,7 @@ const aboutMe = {
   ],
   lookingFor: "Opportunities to learn and collaborate.",
 }
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=MarioValiente-Giraldo
+&show_icons=true&theme=dark&hide_border=true)
