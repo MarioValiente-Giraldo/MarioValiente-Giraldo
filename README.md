@@ -18,7 +18,11 @@ const aboutMe = {
   lookingFor: "Opportunities to learn and collaborate.",
 }
 ```
+
+## 🚀 Featured Projects
+
+📂 **[Ver mis proyectos](https://github.com/MarioValiente-Giraldo/Mis-Proyectos)** - En este repositorio están mis proyectos personales
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=MarioValiente-Giraldo&show_icons=true&theme=dark&hide_border=true)
-
